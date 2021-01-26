@@ -1,0 +1,390 @@
+codigo_forma_de_organizacao;descricao;referencia
+010101;Educação em saúde                                                                                   ;202006
+010102;Saúde bucal                                                                                         ;202006
+010103;Visita domiciliar                                                                                   ;202006
+010104;Alimentação e nutrição                                                                              ;202006
+010105;Praticas integrativas/complementares                                                                ;202006
+010201;Vigilancia sanitária                                                                                ;202006
+010202;Vigilância em saúde do trabalhador                                                                  ;202006
+010203;Vigilância epidemiológica - vacinas                                                                 ;202006
+020101;Coleta de material por meio de punção/biópsia                                                       ;202006
+020102;Outras formas de coleta de material                                                                 ;202006
+020201;Exames bioquimicos                                                                                  ;202006
+020202;Exames hematológicos e hemostasia                                                                   ;202006
+020203;Exames sorológicos e imunológicos                                                                   ;202006
+020204;Exames coprológicos                                                                                 ;202006
+020205;Exames de uroanálise                                                                                ;202006
+020206;Exames hormonais                                                                                    ;202006
+020207;Exames toxicológicos ou de monitorização terapêutica                                                ;202006
+020208;Exames microbiológicos                                                                              ;202006
+020209;Exames em outros líquidos biológicos                                                                ;202006
+020210;Exames de genética                                                                                  ;202006
+020211;Exames para triagem neonatal                                                                        ;202006
+020212;Exames imunohematológicos                                                                           ;202006
+020301;Exames citopatológicos                                                                              ;202006
+020302;Exames anatomopatológicos                                                                           ;202006
+020401;Exames radiológicos da cabeça e pescoço                                                             ;202006
+020402;Exames radiológicos da coluna vertebral                                                             ;202006
+020403;Exames radiológicos do torax e mediastino                                                           ;202006
+020404;Exames radiológicos da cintura escapular e dos membros superiores                                   ;202006
+020405;Exames radiológicos do abdomen e pelve                                                              ;202006
+020406;Exames radiológicos da cintura pélvica e dos membros inferiores                                     ;202006
+020501;Ultra-sonografias do sistema circulatório (qualquer região anatômica)                               ;202006
+020502;Ultra-sonografias dos demais sistemas                                                               ;202006
+020601;Tomografia da cabeça, pescoço e coluna vertebral                                                    ;202006
+020602;Tomografia do torax e membros superiores                                                            ;202006
+020603;Tomografia do abdomen, pelve e membros inferiores                                                   ;202006
+020701;RM da cabeça, pescoço e coluna vertebral                                                            ;202006
+020702;RM do torax e membros superiores                                                                    ;202006
+020703;RM do abdomen, pelve e membros inferiores                                                           ;202006
+020801;Aparelho cardiovascular                                                                             ;202006
+020802;Aparelho digestivo                                                                                  ;202006
+020803;Aparelho endócrino                                                                                  ;202006
+020804;Aparelho geniturinário                                                                              ;202006
+020805;Aparelho esquelético                                                                                ;202006
+020806;Aparelho nervoso                                                                                    ;202006
+020807;Aparelho respiratório                                                                               ;202006
+020808;Aparelho hematológico                                                                               ;202006
+020809;Outros métodos de diagnóstico em medicina nuclear in vivo                                           ;202006
+020901;Aparelho digestivo                                                                                  ;202006
+020902;Aparelho urinário                                                                                   ;202006
+020903;Aparelho ginecológico                                                                               ;202006
+020904;Aparelho respiratório                                                                               ;202006
+021001;Exames radiológicos de vasos sangüíneos e linfáticos                                                ;202006
+021002;Vias biliares                                                                                       ;202006
+021101;Diagnóstico em angiologia                                                                           ;202006
+021102;Diagnóstico em cardiologia                                                                          ;202006
+021103;Diagnóstico cinético funcional                                                                      ;202006
+021104;Diagnóstico em ginecologia-obstetrícia                                                              ;202006
+021105;Diagnóstico em neurologia                                                                           ;202006
+021106;Diagnóstico em oftalmologia                                                                         ;202006
+021107;Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  ;202006
+021108;Diagnóstico em pneumologia                                                                          ;202006
+021109;Diagnóstico em urologia                                                                             ;202006
+021110;Diagnóstico em psicologia-psiquiatria                                                               ;202006
+021111;Diagnóstico em cardiologia intervencionista                                                         ;202006
+021112;Diagnóstico em traumato-ortopedia                                                                   ;202006
+021201;Exames do doador/receptor                                                                           ;202006
+021202;Procedimentos especiais em hemoterápica                                                             ;202006
+021301;Exames relacionados a doenças e agravos de notificação compulsória                                  ;202006
+021302;Exames relacionados ao meio ambiente                                                                ;202006
+021401;Teste realizado fora da estrutura de laboratório                                                    ;202006
+030101;Consultas médicas/outros profissionais  de nivel superior                                           ;202006
+030102;Atendimento/Acompanhamento em saúde do trabalhador                                                  ;202006
+030103;Atendimento pré-hospitalar de urgência                                                              ;202006
+030104;Outros atendimentos realizados por profissionais de níveis superior                                 ;202006
+030105;Atenção domiciliar                                                                                  ;202006
+030106;Consulta/Atendimento ás urgências (em geral)                                                        ;202006
+030107;Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências          ;202006
+030108;Atendimento/Acompanhamento psicossocial                                                             ;202006
+030109;Atendimento/Acompanhamento em saúde do idoso                                                        ;202006
+030110;Atendimentos de enfermagem (em geral)                                                               ;202006
+030111;Atendimento/Acompanhamento queimados                                                                ;202006
+030112;Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais          ;202006
+030113;Acompanhamento em outras especialidades                                                             ;202006
+030114;Cuidados Paliativos                                                                                 ;202006
+030201;Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                ;202006
+030202;Assistência fisioterapêutica em alterações oncológicas                                              ;202006
+030203;Assistência fisioterapêutica em oftalmologia                                                        ;202006
+030204;Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                   ;202006
+030205;Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)                 ;202006
+030206;Assistência fisioterapêutica nas alterações em neurologia                                           ;202006
+030207;Assistência fisioterapêutica em queimados                                                           ;202006
+030301;Tratamento de doenças infecciosas e parasitárias                                                    ;202006
+030302;Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários             ;202006
+030303;Tratamento de doenças endocrinas, metabólicas e nutricionais                                        ;202006
+030304;Tratamento de doenças do sistema nervoso central e periférico                                       ;202006
+030305;Tratamento de doenças do aparelho da visão                                                          ;202006
+030306;Tratamento de doenças cardiovasculares                                                              ;202006
+030307;Tratamento de doenças do aparelho digestivo                                                         ;202006
+030308;Tratamento de doenças da pele e do tecido  subcutâneo                                               ;202006
+030309;Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo                               ;202006
+030310;Tratamento durante a gestação, parto e puerpério                                                    ;202006
+030311;Tratamento de malformações congênitas, deformidades e anomalias cromossômicas                       ;202006
+030312;Tratamentos por medicina nuclear in vivo                                                            ;202006
+030313;Tratamento de pacientes sob cuidados prolongados                                                    ;202006
+030314;Tratamento de doenças do ouvido/apófise mastóide e vias aéreas                                      ;202006
+030315;Tratamento das doenças do aparelho geniturinário                                                    ;202006
+030316;Tratamento de algumas afecçõess originadas no período neonatal                                      ;202006
+030317;Tratamento dos transtornos mentais e comportamentais                                                ;202006
+030318;Tratamento HIV/Aids                                                                                 ;202006
+030319;Reabilitação                                                                                        ;202006
+030401;Radioterapia                                                                                        ;202006
+030402;Quimioterapia paliativa - adulto                                                                    ;202006
+030403;Quimioterapia para controle temporário de doença - adulto                                           ;202006
+030404;Quimioterapia prévia (neoadjuvante/citorredutora)- adulto                                           ;202006
+030405;Quimioterapia adjuvante (profilática) - adulto                                                      ;202006
+030406;Quimioterapia curativa - adulto                                                                     ;202006
+030407;Quimioterapia de tumores de crianca e adolescente                                                   ;202006
+030408;Quimioterapia - procedimentos especiais                                                             ;202006
+030409;Medicina nuclear - terapêutica oncológica                                                           ;202006
+030410;Gerais em oncologia                                                                                 ;202006
+030501;Tratamento dialítico                                                                                ;202006
+030502;Tratamento em nefrologia em geral                                                                   ;202006
+030601;Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica                 ;202006
+030602;Medicina transfusional                                                                              ;202006
+030701;Dentística                                                                                          ;202006
+030702;Endodontia                                                                                          ;202006
+030703;Periodontia clínica                                                                                 ;202006
+030704;Moldagem/Manutenção                                                                                 ;202006
+030801;Traumatismos                                                                                        ;202006
+030802;Intoxicações e envenenamentos                                                                       ;202006
+030803;Outras consequências de causas externas                                                             ;202006
+030804;Complicações consequentes a procedimentos em saúde                                                  ;202006
+030901;Terapia nutricional                                                                                 ;202006
+030902;Terapias em doenças alérgicas                                                                       ;202006
+030903;Terapias do aparelho geniturinário                                                                  ;202006
+030904;Terapias do aparelho cardiovascular                                                                 ;202006
+030905;Práticas integrativas e complementares                                                              ;202006
+030906;Acessos venosos                                                                                     ;202006
+030907;Angiologia                                                                                          ;202006
+031001;Parto e nascimento                                                                                  ;202006
+040101;Pequenas cirurgias                                                                                  ;202006
+040102;Cirurgias de pele, tecido subcutâneo e mucosa                                                       ;202006
+040201;Cirurgia de tireóide e paratireóide                                                                 ;202006
+040202;Cirurgia da suprarrenal                                                                             ;202006
+040301;Trauma e anomalias do desenvolvimento                                                               ;202006
+040302;Coluna e nervos periféricos                                                                         ;202006
+040303;Tumores do sistema nervoso                                                                          ;202006
+040304;Neurocirurgias vasculares                                                                           ;202006
+040305;Tratamento neurocirúrgico da dor funcional                                                          ;202006
+040306;Investigação e cirurgia da epilepsia                                                                ;202006
+040307;Tratamento neuro-endovascular                                                                       ;202006
+040308;Neurocirurgia funcional estereotáxica                                                               ;202006
+040401;Cirurgia das vias aéreas superiores e do pescoço                                                    ;202006
+040402;Cirurgia da face e do sistema estomatognático                                                       ;202006
+040403;Anomalia Crânio e bucomaxilo facial                                                                 ;202006
+040501;Palpebras e vias lacrimais                                                                          ;202006
+040502;Músculos oculomotores                                                                               ;202006
+040503;Corpo vítreo, retina, coróide e esclera                                                             ;202006
+040504;Cavidade orbitária e globo ocular                                                                   ;202006
+040505;Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino                                ;202006
+040601;Cirurgia cardiovascular                                                                             ;202006
+040602;Cirurgia vascular                                                                                   ;202006
+040603;Cardiologia intervencionista                                                                        ;202006
+040604;Cirurgia endovascular                                                                               ;202006
+040605;Eletrofisiologia                                                                                    ;202006
+040701;Esôfago, estômago e duodeno                                                                         ;202006
+040702;Intestinos , reto e anus                                                                            ;202006
+040703;Pancreas, baco, figado e vias biliares                                                              ;202006
+040704;Parede e cavidade abdominal                                                                         ;202006
+040801;Cintura escapular                                                                                   ;202006
+040802;Membros superiores                                                                                  ;202006
+040803;Coluna vertebral e caixa torácica                                                                   ;202006
+040804;Cintura pélvica                                                                                     ;202006
+040805;Membros inferiores                                                                                  ;202006
+040806;Gerais                                                                                              ;202006
+040901;Rim, ureter e bexiga                                                                                ;202006
+040902;Uretra                                                                                              ;202006
+040903;Próstata e vesicula seminal                                                                         ;202006
+040904;Bolsa escrotal, testículos e cordão espermático                                                     ;202006
+040905;Pênis                                                                                               ;202006
+040906;Útero e anexos                                                                                      ;202006
+040907;Vagina, vulva e períneo                                                                             ;202006
+041001;Mama                                                                                                ;202006
+041101;Parto                                                                                               ;202006
+041102;Outras cirurgias relacionadas com o estado gestacional                                              ;202006
+041201;Traqueia e brônquios                                                                                ;202006
+041202;Mediastino                                                                                          ;202006
+041203;Pleura                                                                                              ;202006
+041204;Parede torácica                                                                                     ;202006
+041205;Pulmão                                                                                              ;202006
+041301;Tratamento de queimados                                                                             ;202006
+041302;Reparadora em oncológica                                                                            ;202006
+041303;Reparadora para lipodistrofia                                                                       ;202006
+041304;Outras cirurgias plásticas/reparadoras                                                              ;202006
+041401;Buco-maxilo-facial                                                                                  ;202006
+041402;Cirurgia oral                                                                                       ;202006
+041501;Múltiplas                                                                                           ;202006
+041502;Sequenciais                                                                                         ;202006
+041503;Politraumatizados                                                                                   ;202006
+041504;Procedimentos cirúrgicos gerais                                                                     ;202006
+041601;Urologia                                                                                            ;202006
+041602;Sistema linfático                                                                                   ;202006
+041603;Cabeça e pescoço                                                                                    ;202006
+041604;Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais                          ;202006
+041605;Colo-proctologia                                                                                    ;202006
+041606;Ginecologia                                                                                         ;202006
+041607;Oftalmologia                                                                                        ;202006
+041608;Pele e cirurgia plástica                                                                            ;202006
+041609;Ossos e partes moles                                                                                ;202006
+041610;Neurocirurgia                                                                                       ;202006
+041611;Cirurgia torácica                                                                                   ;202006
+041612;Mastologia                                                                                          ;202006
+041613;Otorrinolaringologia                                                                                ;202006
+041701;Anestesias                                                                                          ;202006
+041801;Acessos para dialise                                                                                ;202006
+041802;Intervençõess cirúrgicas em acessos para diálise                                                    ;202006
+050101;Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)      ;202006
+050102;Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas      ;202006
+050103;Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional);202006
+050104;Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos                   ;202006
+050105;Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos                 ;202006
+050106;Exames gráficos ou por imagem para diagnóstico de morte encefálica                                  ;202006
+050107;Outros exames complementares para doação de orgãos, tecidos e células                               ;202006
+050108;Exames complementares para pacientes transplantados                                                 ;202006
+050201;Avaliação clínica de morte encefálica                                                               ;202006
+050301;Ações relacionadas a doação de orgãos e tecidos para transpalnte                                    ;202006
+050302;Cirurgias para transplante - doador vivo                                                            ;202006
+050303;Manutenção e retirada de orgãos e tecidos para transplante                                          ;202006
+050304;Açõess complementares destinadas a doação de orgãos, tecidos e células.                             ;202006
+050401;Processamento de córnea/esclera                                                                     ;202006
+050402;Processamento de tecido ósteo-fascio-condro-ligamentoso humano                                      ;202006
+050403;Processamento de válvula/tubo valvado cardíaco humano                                               ;202006
+050404;Processamento de pele humana                                                                        ;202006
+050501;Transplante de tecidos e células                                                                    ;202006
+050502;Transplante de orgãos                                                                               ;202006
+050601;Acompanhamento de paciente no pré e pós-transplante                                                 ;202006
+050602;Intercorrência pós transplante                                                                      ;202006
+060101;Agentes anticitocinas                                                                               ;202006
+060102;Antagonista do glutamato                                                                            ;202006
+060103;Antianêmicos não hormonais                                                                          ;202006
+060104;Antianêmicos hormonais                                                                              ;202006
+060105;Antiasmáticos                                                                                       ;202006
+060106;Antibióticos                                                                                        ;202006
+060107;Antiepiléticos                                                                                      ;202006
+060108;Antiinflamatórios                                                                                   ;202006
+060109;Antiinflamatórios intestinais                                                                       ;202006
+060110;Antiparkinsonianos                                                                                  ;202006
+060111;Antipsicóticos                                                                                      ;202006
+060112;Antivirais                                                                                          ;202006
+060113;Bloqueadores neuromusculares                                                                        ;202006
+060114;Ceratolíticos sistêmicos                                                                            ;202006
+060115;Complementos alimentares para fenilcetonúricos                                                      ;202006
+060116;Fatores de crescimento mielóides                                                                    ;202006
+060117;Hipnoanalgésicos                                                                                    ;202006
+060118;Hipolipemiantes                                                                                     ;202006
+060119;Imunomoduladores                                                                                    ;202006
+060120;Imunossupressores                                                                                   ;202006
+060121;Imunoterapicos                                                                                      ;202006
+060122;Inibidores da acetilcolinesterase                                                                   ;202006
+060123;Mucolíticos                                                                                         ;202006
+060124;Quelantes do ferro                                                                                  ;202006
+060125;Outros quelantes                                                                                    ;202006
+060126;Reguladores da atividade hormonal-agonistas da vasopressina                                         ;202006
+060127;Reguladores da atividade hormonal-analogos do GNRH                                                  ;202006
+060128;Reguladores da atividade hormonal-antiandrogênicos                                                  ;202006
+060129;Reguladores da atividade hormonal-inibidores das gonadotrofinas                                     ;202006
+060130;Reguladores da atividade hormonal-inibidores do hormônio do crescimento                             ;202006
+060131;Reguladores da atividade hormonal-inibidores de prolactina                                          ;202006
+060132;Reguladores da atividade hormonal-hormonios de crescimento                                          ;202006
+060133;Reguladores da atividade hormonal-hormonios tireoidianos                                            ;202006
+060134;Reguladores da atividade hormonal-mineralocorticóides                                               ;202006
+060135;Reguladores da homeostase do cálcio                                                                 ;202006
+060136;Repositores enzimáticos                                                                             ;202006
+060201;Procoagulantes em coagulopatias hereditárias                                                        ;202006
+060301;Antiinflamatórios                                                                                   ;202006
+060302;Imunossupressores                                                                                   ;202006
+060303;Imunoterápicos                                                                                      ;202006
+060304;Reguladores de atividade hormonal - inibidores da prolactina                                        ;202006
+060305;Antitrombóticos                                                                                     ;202006
+060306;Tensiolítico alveolar                                                                               ;202006
+060307;Hemoderivados                                                                                       ;202006
+060308;Medicamentos para transplante                                                                       ;202006
+060401;Acido Aminosalicilico e Similares                                                                   ;202006
+060402;Agentes Quelantes de Ferro                                                                          ;202006
+060403;Agonistas da Dopamina/inibidor da prolactina                                                        ;202006
+060404;Agonistas seletivos dos receptores beta 2 adrenérgicos                                              ;202006
+060405;Alcalóides naturais do ópio                                                                         ;202006
+060406;Alimentos dietéticos isentos de fenilalanina                                                        ;202006
+060407;Aminas Terciárias                                                                                   ;202006
+060408;Aminoquinolinas                                                                                     ;202006
+060409;Análogos da mostarda nitrogenada                                                                    ;202006
+060410;Vasopressina e Análogos                                                                             ;202006
+060411;Análogos do hormônio liberador de gonadotrofina                                                     ;202006
+060412;Antiandrogênios                                                                                     ;202006
+060413;Anticolinesterases                                                                                  ;202006
+060414;Antigonadotrofinas e agentes similares                                                              ;202006
+060415;Barbitúricos e derivados                                                                            ;202006
+060416;Bisfosfonados                                                                                       ;202006
+060417;Compostos de Alumínio                                                                               ;202006
+060418;Derivados da benzodiazepina                                                                         ;202006
+060419;Derivados de ácidos graxos                                                                          ;202006
+060420;Derivados do adamantano                                                                             ;202006
+060421;Derivados do indol                                                                                  ;202006
+060422;Derivados da succinimida                                                                            ;202006
+060423;Diazepinas, oxazepinas e tiazepinas                                                                 ;202006
+060424; Enzimas                                                                                            ;202006
+060425;Fatores de estimulação de colônias                                                                  ;202006
+060426;Ferro trivalente, preparações parenterais                                                           ;202006
+060427;Fibratos, Acido Nicotínico e seus derivados                                                         ;202006
+060428;Glicocorticóides                                                                                    ;202006
+060429;Somatostatina e Análogos                                                                            ;202006
+060430; Imunoglobulinas específicas                                                                        ;202006
+060431;Imunoglobulinas, humana normal                                                                      ;202006
+060432;Imunossupressores seletivos                                                                         ;202006
+060433;Inibidores da agregação plaquetária, excl. heparina                                                 ;202006
+060434;Inibidores da calcineurina                                                                          ;202006
+060435;Inibidores da fosfodiesterase                                                                       ;202006
+060436;Inibidores da HMG-CoA redutase                                                                      ;202006
+060437;Inibidores da monoamino oxidase tipo b                                                              ;202006
+060438;Inibidores do fator de necrose tumoral alfa (TNF-a)                                                 ;202006
+060439;Interferonas                                                                                        ;202006
+060440;Medicamentos para tratamento da hipercalemia e hiperfosfatemia                                      ;202006
+060441;Medicamentos utilizados na dependência de opióides                                                  ;202006
+060442;Mineralocorticóides                                                                                 ;202006
+060443;Modulador seletivo de receptor de estrogênio                                                        ;202006
+060444;Mucolíticos                                                                                         ;202006
+060445;Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)                               ;202006
+060446;Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa                                        ;202006
+060447;Outras preparações antianêmicas                                                                     ;202006
+060448;Outros agentes citotóxicos                                                                          ;202006
+060449;Outros agentes dopaminérgicos                                                                       ;202006
+060450;Outros antiepilépticos                                                                              ;202006
+060451;Outros antipsicóticos                                                                               ;202006
+060452;Outros imunoestimulantes                                                                            ;202006
+060453;Outros imunossupressores                                                                            ;202006
+060454;Outros medicamentos do sistema nervoso                                                              ;202006
+060455;Outros relaxantes musculares de ação periférica                                                     ;202006
+060456;Penicilamina e agentes similares                                                                    ;202006
+060457;Preparações de calcitonina                                                                          ;202006
+060458;Preparações de enzimas                                                                              ;202006
+060459;Retinóides para tratamento da acne                                                                  ;202006
+060460;Retinóides para tratamento da psoríase                                                              ;202006
+060461;Somatropina e agonistas da somatropina                                                              ;202006
+060462;Vitamina D e análogos, incluido combinação dos dois                                                 ;202006
+060463;Produtos diversos para o trato alimentar ou metabolismo                                             ;202006
+060464;Inibidores de Protease                                                                              ;202006
+060465;Análogos das Prostaglandinas                                                                        ;202006
+060466;Inibidores da Anidrase Carbonica                                                                    ;202006
+060467;Simpatomiméticos na Terapia de Glaucoma                                                             ;202006
+060468;Anticorpos Monoclonais                                                                              ;202006
+060469;Inibidores de Interleucinas                                                                         ;202006
+060470;Outros Antipsoriaticos de Uso Tópico                                                                ;202006
+060471;Corticoesteróides de Potência Muito Alta (Grupo IV)                                                 ;202006
+060472;Derivados do Ácido Propriônico                                                                      ;202006
+060473;Parassimpaticomiméticos                                                                             ;202006
+060474;Agentes Beta Bloqueadores                                                                           ;202006
+060475;Outros Anti-hipertensivos                                                                           ;202006
+060476;Outros Antivirais                                                                                   ;202006
+060477;Outros Agentes Antiparatireoide                                                                     ;202006
+060478;Insulinas Análogas de Ação Rápida de Uso Injetável                                                  ;202006
+060479;Outras Drogas para Desordem do Sistema Músculo Esquelético                                          ;202006
+060480;Agentes antitrombóticos                                                                             ;202006
+060481;Outros Aminoglicosídeos                                                                             ;202006
+070101;OPM auxiliares da locomoção                                                                         ;202006
+070102;OPM ortopédicas                                                                                     ;202006
+070103;OPM auditivas                                                                                       ;202006
+070104;OPM oftalmológicas                                                                                  ;202006
+070105;OPM em gastroenterologia                                                                            ;202006
+070106;OPM em urologia                                                                                     ;202006
+070107;OPM em odontologia                                                                                  ;202006
+070108;OPM de anomalias buco-maxilo-facial                                                                 ;202006
+070109;Substituição/Troca em órteses/próteses                                                              ;202006
+070110;OPM em queimados                                                                                    ;202006
+070201;OPM em neurocirurgia                                                                                ;202006
+070202;OPM em cirurgia buco-maxilo-facial                                                                  ;202006
+070203;OPM em ortopedia                                                                                    ;202006
+070204;OPM em assistência cardiovascular                                                                   ;202006
+070205;OPM comuns                                                                                          ;202006
+070206;OPM em urologia                                                                                     ;202006
+070207;OPM em cirurgias oftálmicas                                                                         ;202006
+070208;OPM em cirurgia plástica/reparadora                                                                 ;202006
+070209;OPM em cirurgia de otorrinolaringologia                                                             ;202006
+070210;OPM em nefrologia                                                                                   ;202006
+070211;OPM em queimados                                                                                    ;202006
+070212;OPM para transplantes                                                                               ;202006
+080101;Incentivos                                                                                          ;202006
+080201;Diárias                                                                                             ;202006
+080202;Outras ações                                                                                        ;202006
+080301;Deslocamento/Ajuda de custo                                                                         ;202006

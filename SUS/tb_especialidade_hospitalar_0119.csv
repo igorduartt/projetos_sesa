@@ -1,0 +1,39 @@
+codigo_especialidade;descricao;referencia
+01;Cirurgico                                                   ;201901
+02;Obstetricos                                                 ;201901
+03;Clinico                                                     ;201901
+04;Cronicos                                                    ;201901
+05;Psiquiatria                                                 ;201901
+06;Pneumologia Sanitaria (Tisiolo                              ;201901
+07;Pediatricos                                                 ;201901
+08;Reabilitacao                                                ;201901
+09;Leito Dia / Cirurgicos                                      ;201901
+10;Leito Dia / Aids                                            ;201901
+11;Leito Dia / Fibrose Cistica                                 ;201901
+12;Leito Dia / Intercorrencia Pos                              ;201901
+13;Leito Dia / Geriatria                                       ;201901
+14;Leito Dia / Saude Mental                                    ;201901
+64;Unidade Intermediaria                                       ;201901
+65;Unidade Intermediaria Neonatal                              ;201901
+74;UTI I                                                       ;201901
+75;UTI Adulto II                                               ;201901
+76;UTI Adulto III                                              ;201901
+77;UTI Infantil I                                              ;201901
+78;UTI Infantil II                                             ;201901
+79;UTI Infantil III                                            ;201901
+80;UTI Neonatal I                                              ;201901
+81;UTI Neonatal II                                             ;201901
+82;UTI Neonatal III                                            ;201901
+83;UTI Queimados                                               ;201901
+84;Acolhimento Noturno                                         ;201901
+85;UTI Coronariana-UCO tipo II                                 ;201901
+86;UTI Coronariana-UCO tipo III                                ;201901
+87;Saude Mental (Clinico)                                      ;201901
+88;Queimado Adulto (Clinico)                                   ;201901
+89;Queimado Pediatrico (Clinico)                               ;201901
+90;Queimado Adulto (Cirurgico)                                 ;201901
+91;Queimado Pediatrico (Cirurgico)                             ;201901
+92;UCI Unidade de Cuidados Intermediarios Neonatal Convencional;201901
+93;UCI Unidade de Cuidados Intermediarios Neonatal Canguru     ;201901
+94;UCI Unidade de Cuidados Intermediarios Pediatrico           ;201901
+95;UCI Unidade de Cuidados Intermediarios Adulto               ;201901
