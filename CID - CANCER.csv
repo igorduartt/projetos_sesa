@@ -1,0 +1,521 @@
+CODIGO;DESCRICAO;GRUPO;CATEGORIA
+C00;Neoplasia maligna do l?io;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C000;Neoplasia maligna do l?io superior externo;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C001;Neoplasia maligna do l?io inferior externo;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C002;"Neoplasia maligna do l?io externo, n? especificado";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C003;"Neoplasia maligna do l?io superior, face interna";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C004;"Neoplasia maligna do l?io inferior, face interna";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C005;"Neoplasia maligna do l?io, sem especifica?o, face interna";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C006;Neoplasia maligna da comissura labial;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C008;Neoplasia maligna do l?io com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C009;"Neoplasia maligna do l?io, n? especificado";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do lábio
+C01;Neoplasia maligna da base da l?gua;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C02;Neoplasia maligna de outras partes e de partes n? especificadas da l?gua;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C020;Neoplasia maligna da face dorsal da l?gua;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C021;Neoplasia maligna da borda da l?gua;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C022;Neoplasia maligna da face ventral da l?gua;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C023;"Neoplasia maligna de dois ter?s anteriores da l?gua, parte n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C024;Neoplasia maligna da am?dala lingual;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C028;Neoplasia maligna da l?gua com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C029;"Neoplasia maligna da l?gua, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da base da língua
+C03;Neoplasia maligna da gengiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da gengiva
+C030;Neoplasia maligna da gengiva superior;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da gengiva
+C031;Neoplasia maligna da gengiva inferior;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da gengiva
+C039;"Neoplasia maligna da gengiva, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da gengiva
+C04;Neoplasia maligna do assoalho da boca;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do assoalho da boca
+C040;Neoplasia maligna do assoalho anterior da boca;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do assoalho da boca
+C041;Neoplasia maligna do assoalho lateral da boca;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do assoalho da boca
+C048;Neoplasia maligna do assoalho da boca com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do assoalho da boca
+C049;"Neoplasia maligna do assoalho da boca, n? especificado";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do assoalho da boca
+C05;Neoplasia maligna do palato;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do palato
+C050;Neoplasia maligna do palato duro;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do palato
+C051;Neoplasia maligna do palato mole;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do palato
+C052;Neoplasia maligna da ?ula;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do palato
+C058;Neoplasia maligna do palato com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do palato
+C059;"Neoplasia maligna do palato, n? especificado";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do palato
+C06;Neoplasia maligna de outras partes e de partes n? especificadas da boca;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras partes e de partes não especificadas da boca
+C060;Neoplasia maligna da mucosa oral;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras partes e de partes não especificadas da boca
+C061;Neoplasia maligna do vest?ulo da boca;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras partes e de partes não especificadas da boca
+C062;Neoplasia maligna da ?ea retromolar;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras partes e de partes não especificadas da boca
+C068;Neoplasia maligna de outras partes e de partes n? especificadas da boca com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras partes e de partes não especificadas da boca
+C069;"Neoplasia maligna da boca, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras partes e de partes não especificadas da boca
+C07;Neoplasia maligna da gl?dula par?ida;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da glândula parótida
+C08;Neoplasia maligna de outras gl?dulas salivares maiores e as n? especificadas;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras glândulas salivares maiores e as não especificadas
+C080;Neoplasia maligna da gl?dula submandibular;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras glândulas salivares maiores e as não especificadas
+C081;Neoplasia maligna da gl?dula sublingual;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras glândulas salivares maiores e as não especificadas
+C088;Neoplasia maligna das gl?dulas salivares maiores com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras glândulas salivares maiores e as não especificadas
+C089;"Neoplasia maligna da gl?dula salivar maior, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna de outras glândulas salivares maiores e as não especificadas
+C09;Neoplasia maligna da am?dala;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da amígdala
+C090;Neoplasia maligna da fossa amigdaliana;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da amígdala
+C091;Neoplasia maligna do pilar amigdaliano (anterior) (posterior);"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da amígdala
+C098;Neoplasia maligna da am?dala com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da amígdala
+C099;"Neoplasia maligna da am?dala, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da amígdala
+C10;Neoplasia maligna da orofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C100;Neoplasia maligna da val?ula;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C101;Neoplasia maligna da face anterior da epiglote;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C102;Neoplasia maligna da parede lateral da orofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C103;Neoplasia maligna da parede posterior da orofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C104;Neoplasia maligna da fenda branquial;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C108;Neoplasia maligna da orofaringe com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C109;"Neoplasia maligna da orofaringe, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da orofaringe
+C11;Neoplasia maligna da nasofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C110;Neoplasia maligna da parede superior da nasofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C111;Neoplasia maligna da parede posterior da nasofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C112;Neoplasia maligna da parede lateral da nasofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C113;Neoplasia maligna da parede anterior da nasofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C118;Neoplasia maligna da nasofaringe com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C119;"Neoplasia maligna da nasofaringe, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da nasofaringe
+C12;Neoplasia maligna do seio piriforme;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna do seio piriforme
+C13;Neoplasia maligna da hipofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da hipofaringe
+C130;Neoplasia maligna da regi? p?-cric?dea;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da hipofaringe
+C131;"Neoplasia maligna da prega ariepigl?ica, face hipofar?gea";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da hipofaringe
+C132;Neoplasia maligna da parede posterior da hipofaringe;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da hipofaringe
+C138;Neoplasia maligna da hipofaringe com les? invasiva;"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da hipofaringe
+C139;"Neoplasia maligna da hipofaringe, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";Neoplasia maligna da hipofaringe
+C14;"Neoplasia maligna de outras localiza?es e de localiza?es mal definida, do l?io, cavidade oral e faringe";"Neoplasias malignas do l?io, cavidade oral e faringe";"Neoplasia maligna de outras localizações e de localizações mal definida, do lábio, cavidade oral e faringe"
+C140;"Neoplasia maligna da faringe, n? especificada";"Neoplasias malignas do l?io, cavidade oral e faringe";"Neoplasia maligna de outras localizações e de localizações mal definida, do lábio, cavidade oral e faringe"
+C142;Neoplasia maligna do anel de Waldeyer;"Neoplasias malignas do l?io, cavidade oral e faringe";"Neoplasia maligna de outras localizações e de localizações mal definida, do lábio, cavidade oral e faringe"
+C148;"Neoplasia maligna do l?io, cavidade oral e faringe com les? invasiva";"Neoplasias malignas do l?io, cavidade oral e faringe";"Neoplasia maligna de outras localizações e de localizações mal definida, do lábio, cavidade oral e faringe"
+C15;Neoplasia maligna do es?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C150;Neoplasia maligna da por?o cervical do es?ago (es?ago cervical);Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C151;Neoplasia maligna da por?o tor?ica do es?ago (es?ago tor?ico);Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C152;Neoplasia maligna da por?o abdominal do es?ago (es?ago abdominal);Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C153;Neoplasia maligna do ter? superior do es?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C154;Neoplasia maligna do ter? m?io do es?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C155;Neoplasia maligna do ter? inferior do es?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C158;Neoplasia maligna do es?ago com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C159;"Neoplasia maligna do es?ago, n? especificado";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do esôfago
+C16;Neoplasia maligna do est?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C160;Neoplasia maligna da c?dia;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C161;Neoplasia maligna do fundo do est?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C162;Neoplasia maligna do corpo do est?ago;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C163;Neoplasia maligna do antro pil?ico;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C164;Neoplasia maligna do piloro;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C165;"Neoplasia maligna da pequena curvatura do est?ago, n? especificada";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C166;"Neoplasia maligna da grande curvatura do est?ago, n? especificada";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C168;Neoplasia maligna do est?ago com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C169;"Neoplasia maligna do est?ago, n? especificado";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do estômago
+C17;Neoplasia maligna do intestino delgado;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C170;Neoplasia maligna do duodeno;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C171;Neoplasia maligna do jejuno;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C172;Neoplasia maligna do ?eo;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C173;Neoplasia maligna do divert?ulo de Meckel;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C178;Neoplasia maligna do intestino delgado com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C179;"Neoplasia maligna do intestino delgado, n? especificado";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do intestino delgado
+C18;Neoplasia maligna do c?on;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C180;Neoplasia maligna do ceco;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C181;Neoplasia maligna do ap?dice (vermiforme);Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C182;Neoplasia maligna do c?on ascendente;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C183;Neoplasia maligna da flexura (?gulo) hep?ica(o);Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C184;Neoplasia maligna do c?on transverso;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C185;Neoplasia maligna da flexura (?gulo) espl?ica(o);Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C186;Neoplasia maligna do c?on descendente;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C187;Neoplasia maligna do c?on sigm?de;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C188;Neoplasia maligna do c?on com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C189;"Neoplasia maligna do c?on, n? especificado";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do cólon
+C19;Neoplasia maligna da jun?o retossigm?de;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da junção retossigmóide
+C20;Neoplasia maligna do reto;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do reto
+C21;Neoplasia maligna do ?us e do canal anal;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do reto
+C210;"Neoplasia maligna do ?us, n? especificado";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do reto
+C211;Neoplasia maligna do canal anal;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do reto
+C212;Neoplasia maligna da zona cloacog?ica;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do reto
+C218;"Neoplasia maligna do reto, ?us e do canal anal com les? invasiva";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do reto
+C22;Neoplasia maligna do f?ado e das vias biliares intra-hep?icas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C220;Carcinoma de c?ulas hep?icas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C221;Carcinoma de vias biliares intra-hep?icas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C222;Hepatoblastoma;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C223;Angiossarcoma do f?ado;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C224;Outros sarcomas do f?ado;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C227;Outros carcinomas especificados do f?ado;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C229;"Neoplasia maligna do f?ado, n? especificada";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C23;Neoplasia maligna da ves?ula biliar;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da vesícula biliar
+C24;"Neoplasia maligna de outras partes, e de partes n? especificadas das vias biliares";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da vesícula biliar
+C240;Neoplasia maligna das vias biliares extra-hep?icas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da vesícula biliar
+C241;Neoplasia maligna da ampola de Vater;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da vesícula biliar
+C248;Neoplasia maligna das vias biliares com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da vesícula biliar
+C249;"Neoplasia maligna da via biliar, n? especificada";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna da vesícula biliar
+C25;Neoplasia maligna do p?creas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C250;Neoplasia maligna da cabe? do p?creas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C251;Neoplasia maligna do corpo do p?creas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C252;Neoplasia maligna da cauda do p?creas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C253;Neoplasia maligna do canal pancre?ico;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C254;Neoplasia maligna do p?creas end?rino;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C257;Neoplasia maligna de outras partes do p?creas;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C258;Neoplasia maligna do p?creas com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C259;"Neoplasia maligna do p?creas, n? especificado";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna do pâncreas
+C26;Neoplasia maligna de outros ?g?s digestivos e de localiza?es mal definidas no aparelho digestivo;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna de outros órgãos digestivos e de localizações mal definidas no aparelho digestivo
+C260;"Neoplasia maligna do trato intestinal, parte n? especificada";Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna de outros órgãos digestivos e de localizações mal definidas no aparelho digestivo
+C261;Neoplasia maligna do ba?;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna de outros órgãos digestivos e de localizações mal definidas no aparelho digestivo
+C268;Neoplasia maligna do aparelho digestivo com les? invasiva;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna de outros órgãos digestivos e de localizações mal definidas no aparelho digestivo
+C269;Neoplasia maligna de localiza?es mal definidas dentro do aparelho digestivo;Neoplasias malignas dos ?g?s digestivos;Neoplasia maligna de outros órgãos digestivos e de localizações mal definidas no aparelho digestivo
+C30;Neoplasia maligna da cavidade nasal e do ouvido m?io;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C300;Neoplasia maligna da cavidade nasal;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C301;Neoplasia maligna do ouvido m?io;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C31;Neoplasia maligna dos seios da face;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C310;Neoplasia maligna do seio maxilar;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C311;Neoplasia maligna do seio etmoidal;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C312;Neoplasia maligna do seio frontal;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C313;Neoplasia maligna do seio esfenoidal;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C318;Neoplasia maligna dos seios da face com les? invasiva;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C319;"Neoplasia maligna do seio da face, n? especificado";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da cavidade nasal e do ouvido médio
+C32;Neoplasia maligna da laringe;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C320;Neoplasia maligna da glote;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C321;Neoplasia maligna da regi? supragl?ica;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C322;Neoplasia maligna da regi? subgl?ica;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C323;Neoplasia maligna das cartilagens da laringe;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C328;Neoplasia maligna da laringe com les? invasiva;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C329;"Neoplasia maligna da laringe, n? especificada";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da laringe
+C33;Neoplasia maligna da traqu?a;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna da traquéia
+C34;Neoplasia maligna dos br?quios e dos pulm?s;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C340;Neoplasia maligna do br?quio principal;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C341;"Neoplasia maligna do lobo superior, br?quio ou pulm?";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C342;"Neoplasia maligna do lobo m?io, br?quio ou pulm?";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C343;"Neoplasia maligna do lobo inferior, br?quio ou pulm?";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C348;Neoplasia maligna dos br?quios e dos pulm?s com les? invasiva;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C349;"Neoplasia maligna dos br?quios ou pulm?s, n? especificado";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna dos brônquios e dos pulmões
+C37;Neoplasia maligna do timo;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do timo
+C38;"Neoplasia maligna do cora?o, mediastino e pleura";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;"Neoplasia maligna do coração, mediastino e pleura"
+C380;Neoplasia maligna do cora?o;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do coração
+C381;Neoplasia maligna do mediastino anterior;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do coração
+C382;Neoplasia maligna do mediastino posterior;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do coração
+C383;"Neoplasia maligna do mediastino, por?o n? especificada";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do coração
+C384;Neoplasia maligna da pleura;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do coração
+C388;"Neoplasia maligna do cora?o, mediastino e pleura com les? invasiva";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna do coração
+C39;Neoplasia maligna de outras localiza?es e de localiza?es mal definidas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna de outras localizações e de localizações mal definidas do aparelho respiratório e dos órgãos intratorácicos
+C390;"Neoplasia maligna do trato respirat?io superior, por?o n? especificada";Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna de outras localizações e de localizações mal definidas do aparelho respiratório e dos órgãos intratorácicos
+C398;Neoplasia maligna do aparelho respirat?io e dos ?g?s intrator?icos com les? invasiva;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna de outras localizações e de localizações mal definidas do aparelho respiratório e dos órgãos intratorácicos
+C399;Neoplasia maligna de localiza?es mal definidas do aparelho respirat?io;Neoplasias malignas do aparelho respirat?io e dos ?g?s intrator?icos;Neoplasia maligna de outras localizações e de localizações mal definidas do aparelho respiratório e dos órgãos intratorácicos
+C40;Neoplasia maligna dos ossos e cartilagens articulares dos membros;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C400;Neoplasia maligna da omoplata [esc?ula] e ossos longos dos membros superiores;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C401;Neoplasia maligna dos ossos curtos dos membros superiores;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C402;Neoplasia maligna dos ossos longos dos membros inferiores;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C403;Neoplasia maligna dos ossos curtos dos membros inferiores;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C408;Neoplasia maligna dos ossos e cartilagens articulares dos membros com les? invasiva;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C409;Neoplasia maligna dos ossos e cartilagens articulares de membro n? especificado;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C41;Neoplasia maligna dos ossos e das cartilagens articulares de outras localiza?es e de localiza?es n? especificadas;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C410;Neoplasia maligna dos ossos do cr?io e da face;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C411;Neoplasia maligna da mand?ula;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C412;Neoplasia maligna da coluna vertebral;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C413;"Neoplasia maligna das costelas, esterno e clav?ula";Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C414;"Neoplasia maligna dos ossos da pelve, sacro e c?cix";Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C418;Neoplasia maligna dos ossos e das cartilagens articulares com les? invasiva;Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C419;"Neoplasia maligna dos ossos e cartilagens articulares, n? especificados";Neoplasias malignas dos ossos e das cartilagens articulares;Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C43;Melanoma maligno da pele;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C430;Melanoma maligno do l?io;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C431;"Melanoma maligno da p?pebra, incluindo as comissuras palpebrais";Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C432;Melanoma maligno da orelha e do conduto auditivo externo;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C433;Melanoma maligno de outras partes e partes n? especificadas da face;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C434;Melanoma maligno do couro cabeludo e do pesco?;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C435;Melanoma maligno do tronco;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C436;"Melanoma maligno do membro superior, incluindo ombro";Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C437;"Melanoma maligno do membro inferior, incluindo quadril";Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C438;Melanoma maligno invasivo da pele;Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C439;"Melanoma maligno de pele, n? especificado";Melanoma e outras(os) neoplasias malignas da pele;Melanoma maligno da pele
+C44;Outras neoplasias malignas da pele;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C440;Neoplasia maligna da pele do l?io;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C441;"Neoplasia maligna da pele da p?pebra, incluindo o canto";Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C442;Neoplasia maligna da pele da orelha e do conduto auditivo externo;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C443;Neoplasia maligna da pele de outras partes e de partes n? especificadas da face;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C444;Neoplasia maligna da pele do couro cabeludo e do pesco?;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C445;Neoplasia maligna da pele do tronco;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C446;"Neoplasia maligna da pele do membro superior, incluindo ombro";Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C447;"Neoplasia maligna da pele do membro inferior, incluindo quadril";Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C448;Neoplasia maligna da pele com les? invasiva;Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C449;"Neoplasia maligna da pele, n? especificada";Melanoma e outras(os) neoplasias malignas da pele;Outras neoplasias malignas da pele
+C45;Mesotelioma;Neoplasias malignas do tecido mesotelial e tecidos moles;Mesotelioma
+C450;Mesotelioma da pleura;Neoplasias malignas do tecido mesotelial e tecidos moles;Mesotelioma
+C451;Mesotelioma do perit?io;Neoplasias malignas do tecido mesotelial e tecidos moles;Mesotelioma
+C452;Mesotelioma do peric?dio;Neoplasias malignas do tecido mesotelial e tecidos moles;Mesotelioma
+C457;Mesotelioma de outras localiza?es;Neoplasias malignas do tecido mesotelial e tecidos moles;Mesotelioma
+C459;"Mesotelioma, n? especificado";Neoplasias malignas do tecido mesotelial e tecidos moles;Mesotelioma
+C46;Sarcoma de Kaposi;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C460;Sarcoma de Kaposi da pele;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C461;Sarcoma de Kaposi de tecidos moles;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C462;Sarcoma de Kaposi do palato;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C463;Sarcoma de Kaposi dos g?glios linf?icos;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C467;Sarcoma de Kaposi de outras localiza?es;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C468;Sarcoma de Kaposi de m?tiplos ?g?s;Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C469;"Sarcoma de Kaposi, n? especificado";Neoplasias malignas do tecido mesotelial e tecidos moles;Sarcoma de Kaposi
+C47;Neoplasia maligna dos nervos perif?icos e do sistema nervoso aut?omo;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C470;"Neoplasia maligna dos nervos perif?icos da cabe?, face e pesco?";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C471;"Neoplasia maligna dos nervos perif?icos dos membros superiores, incluindo ombro";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C472;"Neoplasia maligna dos nervos perif?icos dos membros inferiores, incluindo quadril";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C473;Neoplasia maligna dos nervos perif?icos do t?ax;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C474;Neoplasia maligna dos nervos perif?icos do abdome;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C475;Neoplasia maligna dos nervos perif?icos da pelve;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C476;Neoplasia maligna dos nervos perif?icos do tronco;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C478;Neoplasia maligna dos nervos perif?icos e do sistema nervoso aut?omo com les? invasiva;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C479;"Neoplasia maligna dos nervos perif?icos e sistema nervoso aut?omo, n? especificados";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos nervos periféricos e do sistema nervoso autônomo
+C48;Neoplasia maligna dos tecidos moles do retroperit?io e do perit?io;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio
+C480;Neoplasia maligna do retroperit?io;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio
+C481;Neoplasia maligna de partes especificadas do perit?io;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio
+C482;Neoplasia maligna do perit?io;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio
+C488;Neoplasia maligna dos tecidos moles do retroperit?io e do perit?io com les? invasiva;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna dos tecidos moles do retroperitônio e do peritônio
+C49;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C490;"Neoplasia maligna do tecido conjuntivo e tecidos moles da cabe?, face e pesco?";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C491;"Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros superiores, incluindo ombro";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C492;"Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros inferiores, incluindo quadril";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C493;Neoplasia maligna do tecido conjuntivo e tecidos moles do t?ax;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C494;Neoplasia maligna do tecido conjuntivo e tecidos moles do abdome;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C495;Neoplasia maligna do tecido conjuntivo e tecidos moles da pelve;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C496;Neoplasia maligna do tecido conjuntivo e tecidos moles do tronco;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C498;Neoplasia maligna do tecido conjuntivo e dos tecidos moles com les? invasiva;Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C499;"Neoplasia maligna do tecido conjuntivo e tecidos moles, n? especificados";Neoplasias malignas do tecido mesotelial e tecidos moles;Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C50;Neoplasia maligna da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C500;Neoplasia maligna do mamilo e ar?la;Neoplasias malignas da mama;Neoplasia maligna da mama
+C501;Neoplasia maligna da por?o central da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C502;Neoplasia maligna do quadrante superior interno da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C503;Neoplasia maligna do quadrante inferior interno da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C504;Neoplasia maligna do quadrante superior externo da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C505;Neoplasia maligna do quadrante inferior externo da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C506;Neoplasia maligna da por?o axilar da mama;Neoplasias malignas da mama;Neoplasia maligna da mama
+C508;Neoplasia maligna da mama com les? invasiva;Neoplasias malignas da mama;Neoplasia maligna da mama
+C509;"Neoplasia maligna da mama, n? especificada";Neoplasias malignas da mama;Neoplasia maligna da mama
+C51;Neoplasia maligna da vulva;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vulva
+C510;Neoplasia maligna dos grandes l?ios;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vulva
+C511;Neoplasia maligna dos pequenos l?ios;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vulva
+C512;Neoplasia maligna do clit?is;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vulva
+C518;Neoplasia maligna da vulva com les? invasiva;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vulva
+C519;"Neoplasia maligna da vulva, n? especificada";Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vulva
+C52;Neoplasia maligna da vagina;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vagina
+C53;Neoplasia maligna do colo do ?ero;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vagina
+C530;Neoplasia maligna do endoc?vix;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vagina
+C531;Neoplasia maligna do exoc?vix;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vagina
+C538;Neoplasia maligna do colo do ?ero com les? invasiva;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vagina
+C539;"Neoplasia maligna do colo do ?ero, n? especificado";Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da vagina
+C54;Neoplasia maligna do corpo do ?ero;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C540;Neoplasia maligna do istmo do ?ero;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C541;Neoplasia maligna do endom?rio;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C542;Neoplasia maligna do miom?rio;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C543;Neoplasia maligna do fundo do ?ero;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C548;Neoplasia maligna do corpo do ?ero com les? invasiva;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C549;"Neoplasia maligna do corpo do ?ero, n? especificado";Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do corpo do útero
+C55;"Neoplasia maligna do ?ero, por?o n? especificada";Neoplasias malignas dos ?g?s genitais femininos;"Neoplasia maligna do útero, porção não especificada"
+C56;Neoplasia maligna do ov?io;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna do ovário
+C57;Neoplasia maligna de outros ?g?s genitais femininos e dos n? especificados;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C570;Neoplasia maligna da trompa de Fal?io;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C571;Neoplasia maligna do ligamento largo;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C572;Neoplasia maligna do ligamento redondo;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C573;Neoplasia maligna do param?rio;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C574;Neoplasia maligna dos anexos uterinos;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C577;Neoplasia maligna de outras partes especificadas dos ?g?s genitais femininos;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C578;Neoplasia maligna dos ?g?s genitais femininos com les? invasiva;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C579;"Neoplasia maligna de ?g? genital feminino, n? especificado";Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna de outros órgãos genitais femininos e dos não especificados
+C58;Neoplasia maligna da placenta;Neoplasias malignas dos ?g?s genitais femininos;Neoplasia maligna da placenta
+C60;Neoplasia maligna do p?is;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna do pênis
+C600;Neoplasia maligna do prep?io;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna do pênis
+C601;Neoplasia maligna da glande;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna do pênis
+C602;Neoplasia maligna do corpo do p?is;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna do pênis
+C608;Neoplasia maligna do p?is com les? invasiva;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna do pênis
+C609;"Neoplasia maligna do p?is, n? especificado";Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna do pênis
+C61;Neoplasia maligna da pr?tata;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna da próstata
+C62;Neoplasia maligna dos test?ulos;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna dos testículos
+C620;Neoplasia maligna do test?ulo criptorqu?ico;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna dos testículos
+C621;Neoplasia maligna do test?ulo t?ico;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna dos testículos
+C629;"Neoplasia maligna do test?ulo, sem outras especifica?es";Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna dos testículos
+C63;Neoplasia maligna de outros ?g?s genitais masculinos e dos n? especificados;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C630;Neoplasia maligna do epid?imo;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C631;Neoplasia maligna do cord? esperm?ico;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C632;Neoplasia maligna do escroto;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C637;Neoplasia maligna de outros ?g?s genitais masculinos especificados;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C638;Neoplasia maligna dos ?g?s genitais masculinos com les? invasiva;Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C639;"Neoplasia maligna de ?g? genital masculino, n? especificado";Neoplasias malignas dos ?g?s genitais masculinos;Neoplasia maligna de outros órgãos genitais masculinos e dos não especificados
+C64;"Neoplasia maligna do rim, exceto pelve renal";Neoplasias malignas do trato urin?io;"Neoplasia maligna do rim, exceto pelve renal"
+C65;Neoplasia maligna da pelve renal;Neoplasias malignas do trato urin?io;Neoplasia maligna da pelve renal
+C66;Neoplasia maligna dos ureteres;Neoplasias malignas do trato urin?io;Neoplasia maligna dos ureteres
+C67;Neoplasia maligna da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C670;Neoplasia maligna do tr?ono da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C671;Neoplasia maligna da c?ula da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C672;Neoplasia maligna da parede lateral da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C673;Neoplasia maligna da parede anterior da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C674;Neoplasia maligna da parede posterior da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C675;Neoplasia maligna do colo da bexiga;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C676;Neoplasia maligna do orif?io uret?ico;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C677;Neoplasia maligna do ?aco;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C678;Neoplasia maligna da bexiga com les? invasiva;Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C679;"Neoplasia maligna da bexiga, sem outra especifica?es";Neoplasias malignas do trato urin?io;Neoplasia maligna da bexiga
+C68;Neoplasia maligna de outros ?g?s urin?ios e dos n? especificados;Neoplasias malignas do trato urin?io;Neoplasia maligna de outros órgãos urinários e dos não especificados
+C680;Neoplasia maligna da uretra;Neoplasias malignas do trato urin?io;Neoplasia maligna de outros órgãos urinários e dos não especificados
+C681;Neoplasia maligna da gl?dula parauretral;Neoplasias malignas do trato urin?io;Neoplasia maligna de outros órgãos urinários e dos não especificados
+C688;Neoplasia maligna dos ?g?s urin?ios com les? invasiva;Neoplasias malignas do trato urin?io;Neoplasia maligna de outros órgãos urinários e dos não especificados
+C689;"Neoplasia maligna de ?g? urin?io, n? especificado";Neoplasias malignas do trato urin?io;Neoplasia maligna de outros órgãos urinários e dos não especificados
+C69;Neoplasia maligna do olho e anexos;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C690;Neoplasia maligna da conjuntiva;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C691;Neoplasia maligna da c?nea;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C692;Neoplasia maligna da retina;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C693;Neoplasia maligna da cor?de;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C694;Neoplasia maligna do corpo ciliar;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C695;Neoplasia maligna da gl?dula e canal lacrimal;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C696;Neoplasia maligna da ?bita;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C698;Neoplasia maligna do olho e anexos com les? invasiva;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C699;"Neoplasia maligna do olho, n? especificado";"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do olho e anexos
+C70;Neoplasia maligna das meninges;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna das meninges
+C700;Neoplasia maligna das meninges cerebrais;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna das meninges
+C701;Neoplasia maligna das meninges espinhais;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna das meninges
+C709;"Neoplasia maligna da meninge, n? especificada";"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna das meninges
+C71;Neoplasia maligna do enc?alo;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C710;"Neoplasia maligna do c?ebro, exceto lobos e ventr?ulos";"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C711;Neoplasia maligna do lobo frontal;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C712;Neoplasia maligna do lobo temporal;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C713;Neoplasia maligna do lobo parietal;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C714;Neoplasia maligna do lobo occipital;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C715;Neoplasia maligna do ventr?ulo cerebral;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C716;Neoplasia maligna do cerebelo;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C717;Neoplasia maligna do tronco cerebral;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C718;Neoplasia maligna do enc?alo com les? invasiva;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C719;"Neoplasia maligna do enc?alo, n? especificado";"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";Neoplasia maligna do encéfalo
+C72;"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central";"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C720;Neoplasia maligna da medula espinhal;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C721;Neoplasia maligna da cauda eq?na;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C722;Neoplasia maligna do nervo olfativo;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C723;Neoplasia maligna do nervo ?tico;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C724;Neoplasia maligna do nervo ac?tico;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C725;Neoplasia maligna de outros nervos cranianos e os n? especificados;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C728;Neoplasia maligna do enc?alo e de outras partes do sistema nervoso central com les? invasiva;"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C729;"Neoplasia maligna do sistema nervoso central, n? especificado";"Neoplasias malignas dos olhos, do enc?alo e de outras partes do sistema nervoso central";"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C73;Neoplasia maligna da gl?dula tire?de;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna da glândula tireóide
+C74;Neoplasia maligna da gl?dula supra-renal [Gl?dula adrenal];Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna da glândula supra-renal [Glândula adrenal]
+C740;Neoplasia maligna do c?tex da supra-renal;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna da glândula supra-renal [Glândula adrenal]
+C741;Neoplasia maligna da medula da supra-renal;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna da glândula supra-renal [Glândula adrenal]
+C749;"Neoplasia maligna da gl?dula supra-renal, n? especificada";Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna da glândula supra-renal [Glândula adrenal]
+C75;Neoplasia maligna de outras gl?dulas end?rinas e de estruturas relacionadas;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C750;Neoplasia maligna da gl?dula paratire?de;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C751;Neoplasia maligna da gl?dula hip?ise (pituit?ia);Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C752;Neoplasia maligna do conduto craniofar?geo;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C753;Neoplasia maligna da gl?dula pineal;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C754;Neoplasia maligna do corpo carot?eo;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C755;Neoplasia maligna do corpo a?tico e outros parag?glios;Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C758;"Neoplasia maligna com comprometimento pluriglandular, sem outra especifica?o";Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C759;"Neoplasia maligna de gl?dula end?rina, n? especificada";Neoplasias malignas da tire?de e de outras gl?dulas end?rinas;Neoplasia maligna de outras glândulas endócrinas e de estruturas relacionadas
+C76;Neoplasia maligna de outras localiza?es e de localiza?es mal definidas;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C760;"Neoplasia maligna da cabe?, face e pesco?";"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C761;Neoplasia maligna do t?ax;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C762;Neoplasia maligna do abdome;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C763;Neoplasia maligna da pelve;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C764;Neoplasia maligna do membro superior;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C765;Neoplasia maligna do membro inferior;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C767;Neoplasia maligna de outras localiza?es mal definidas;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C768;Neoplasia maligna de outras localiza?es e das mal definidas com les? invasiva;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna de outras localizações e de localizações mal definidas
+C77;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C770;"Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos da cabe?, face e pesco?";"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C771;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos intrator?icos;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C772;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos intra-abdominais;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C773;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos axilares e dos membros superiores;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C774;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos inguinais e dos membros inferiores;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C775;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos intrap?vicos;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C778;Neoplasia maligna secund?ia e n? especificada dos g?glios linf?icos de m?tiplas regi?s;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C779;"Neoplasia maligna secund?ia e n? especificada de g?glio linf?ico, n? especificado";"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária e não especificada dos gânglios linfáticos
+C78;Neoplasia maligna secund?ia dos ?g?s respirat?ios e digestivos;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C780;Neoplasia maligna secund?ia dos pulm?s;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C781;Neoplasia maligna secund?ia do mediastino;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C782;Neoplasia maligna secund?ia da pleura;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C783;Neoplasia maligna secund?ia de outros ?g?s respirat?ios e n? especificados;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C784;Neoplasia maligna secund?ia do intestino delgado;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C785;Neoplasia maligna secund?ia do intestino grosso e do reto;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C786;Neoplasia maligna secund?ia do retroperit?io e do perit?io;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C787;Neoplasia maligna secund?ia do f?ado;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C788;Neoplasia maligna secund?ia de outros ?g?s digestivos e n? especificados;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária dos órgãos respiratórios e digestivos
+C79;Neoplasia maligna secund?ia de outras localiza?es;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C790;Neoplasia maligna secund?ia do rim e da pelve renal;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C791;"Neoplasia maligna secund?ia da bexiga, de outro ?g? urin?io e n? especificado";"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C792;Neoplasia maligna secund?ia da pele;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C793;Neoplasia maligna secund?ia do enc?alo e das meninges cerebrais;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C794;Neoplasia maligna secund?ia de outras partes do sistema nervoso e n? especificadas;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C795;Neoplasia maligna secund?ia dos ossos e da medula ?sea;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C796;Neoplasia maligna secund?ia do ov?io;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C797;Neoplasia maligna secund?ia das gl?dulas supra-renais (adrenais);"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C798;Neoplasia maligna secund?ia de outra localiza?o especificada;"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";Neoplasia maligna secundária de outras localizações
+C80;"Neoplasia maligna, sem especifica?o de localiza?o";"Neoplasias malignas de localiza?es mal definidas, secund?ias e de localiza?es n? especificadas";"Neoplasia maligna, sem especificação de localização"
+C81;Doen? de Hodgkin;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C810;"Doen? de Hodgkin, predomin?cia linfoc?ica";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C811;"Doen? de Hodgkin, esclerose nodular";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C812;"Doen? de Hodgkin, celularidade mista";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C813;"Doen? de Hodgkin, deple?o linfoc?ica";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C817;Outra forma da doen? de Hodgkin;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C819;"Doen? de Hodgkin, n? especificada";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doença de Hodgkin
+C82;"Linfoma n?-Hodgkin, folicular (nodular)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Linfoma não-Hodgkin, folicular (nodular)"
+C820;"Linfoma n?-Hodgkin, pequenas c?ulas clivadas, folicular";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Linfoma não-Hodgkin, folicular (nodular)"
+C821;"Linfoma n?-Hodgkin, misto, de pequenas e grandes c?ulas clivadas, folicular";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Linfoma não-Hodgkin, folicular (nodular)"
+C822;"Linfoma n?-Hodgkin, grandes c?ulas, folicular";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Linfoma não-Hodgkin, folicular (nodular)"
+C827;"Outros tipos de linfoma n?-Hodgkin, folicular";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Linfoma não-Hodgkin, folicular (nodular)"
+C829;"Linfoma n?-Hodgkin, folicular, n? especificado";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Linfoma não-Hodgkin, folicular (nodular)"
+C83;Linfoma n?-Hodgkin difuso;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C830;"Linfoma n?-Hodgkin difuso, pequenas c?ulas (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C831;"Linfoma n?-Hodgkin difuso, pequenas c?ulas clivadas (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C832;"Linfoma n?-Hodgkin difuso, misto, de pequenas e grandes c?ulas (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C833;"Linfoma n?-Hodgkin difuso, grandes c?ulas (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C834;"Linfoma n?-Hodgkin difuso, imunobl?tico (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C835;"Linfoma n?-Hodgkin difuso, linfobl?tico (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C836;"Linfoma n?-Hodgkin difuso, indiferenciado (difuso)";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C837;Tumor de Burkitt;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C838;Outros tipos de linfoma n?-Hodgkin difuso;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C839;"Linfoma n?-Hodgkin difuso, n? especificado";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin difuso
+C84;Linfomas de c?ulas T cut?eas e perif?icas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C840;Micose fung?de;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C841;Doen? de S?ary;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C842;Linfoma da zona T;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C843;Linfoma linfoepiteli?de;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C844;"Linfoma de c?ulas T, perif?ico";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C845;Outros linfomas de c?ulas T e os n? especificados;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfomas de células T cutâneas e periféricas
+C85;Linfoma n?-Hodgkin de outros tipos e de tipo n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin de outros tipos e de tipo não especificado
+C850;Linfossarcoma;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin de outros tipos e de tipo não especificado
+C851;"Linfoma de c?ulas B, n? especificado";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin de outros tipos e de tipo não especificado
+C857;Outros tipos especificados de linfoma n?-Hodgkin;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin de outros tipos e de tipo não especificado
+C859;Linfoma n?-Hodgkin de tipo n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Linfoma não-Hodgkin de outros tipos e de tipo não especificado
+C88;Doen?s imunoproliferativas malignas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C880;Macroglobulinemia de Waldenstr?;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C881;Doen? de cadeia pesada alfa;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C882;Doen? de cadeia pesada gama;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C883;Doen? imunoproliferativa do intestino delgado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C887;Outras doen?s imunoproliferativas malignas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C889;"Doen? imunoproliferativa maligna, n? especificada";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Doenças imunoproliferativas malignas
+C90;Mieloma m?tiplo e neoplasias malignas de plasm?itos;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Mieloma múltiplo e neoplasias malignas de plasmócitos
+C900;Mieloma m?tiplo;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Mieloma múltiplo e neoplasias malignas de plasmócitos
+C901;Leucemia plasmocit?ia;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Mieloma múltiplo e neoplasias malignas de plasmócitos
+C902;Plasmocitoma extramedular;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Mieloma múltiplo e neoplasias malignas de plasmócitos
+C91;Leucemia linf?de;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C910;Leucemia linfobl?tica aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C911;Leucemia linfoc?ica cr?ica;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C912;Leucemia linfoc?ica subaguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C913;Leucemia pr?linfoc?ica;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C914;Leucemia de c?ulas pilosas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C915;Leucemia de c?ulas T do adulto;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C917;Outras leucemias linf?des;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C919;"Leucemia linf?de, n? especificada";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia linfóide
+C92;Leucemia miel?de;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C920;Leucemia miel?de aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C921;Leucemia miel?de cr?ica;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C922;Leucemia miel?de subaguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C923;Sarcoma miel?de;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C924;Leucemia pr?mieloc?ica aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C925;Leucemia mielomonoc?ica aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C927;Outras leucemias miel?des;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C929;"Leucemia miel?de, n? especificada";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia mielóide
+C93;Leucemia monoc?ica;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia monocítica
+C930;Leucemia monoc?ica aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia monocítica
+C931;Leucemia monoc?ica cr?ica;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia monocítica
+C932;Leucemia monoc?ica subaguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia monocítica
+C937;Outras leucemias monoc?icas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia monocítica
+C939;"Leucemia monoc?ica, n? especificada";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia monocítica
+C94;Outras leucemias de c?ulas de tipo especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C940;Eritremia e eritroleucemia agudas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C941;Eritremia cr?ica;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C942;Leucemia megacariobl?tica aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C943;Leucemia de mast?itos;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C944;Panmielose aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C945;Mielofibrose aguda;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C947;Outras leucemias especificadas;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Outras leucemias de células de tipo especificado
+C95;Leucemia de tipo celular n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia de tipo celular não especificado
+C950;Leucemia aguda de tipo celular n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia de tipo celular não especificado
+C951;Leucemia cr?ica de tipo celular n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia de tipo celular não especificado
+C952;Leucemia subaguda de tipo celular n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia de tipo celular não especificado
+C957;Outras leucemias de tipo celular n? especificado;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia de tipo celular não especificado
+C959;Leucemia n? especificada;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";Leucemia de tipo celular não especificado
+C96;"Outras neoplasias malignas e as n? especificadas dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C960;Doen? de Letterer-Siwe;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C961;Histiocitose maligna;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C962;Tumor maligno de mast?itos;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C963;Linfoma histioc?ico verdadeiro;"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C967;"Outras neoplasias malignas especificadas dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C969;"Neoplasia maligna dos tecidos linf?ico, hematopo?ico e tecidos correlatos, n? especificada";"Neoplasias [tumores] malignas(os), declaradas ou presumidas como prim?ias, dos tecidos linf?ico, hematopo?ico e tecidos correlatos";"Outras neoplasias malignas e as não especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C97;Neoplasias malignas de localiza?es m?tiplas independentes (prim?ias);Neoplasias malignas de localiza?es m?tiplas independentes (prim?ias);Neoplasias malignas de localizações múltiplas independentes (primárias)
