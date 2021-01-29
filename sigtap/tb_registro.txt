@@ -1,0 +1,10 @@
+01BPA (Consolidado)                                 202012
+02BPA (Individualizado)                             202012
+03AIH (Proc. Principal)                             202012
+04AIH (Proc. Especial)                              202012
+05AIH (Proc. Secundário)                            202012
+06APAC (Proc. Principal)                            202012
+07APAC (Proc. Secundário)                           202012
+08RAAS (Atenção Domiciliar)                         202012
+09RAAS (Atenção Psicossocial)                       202012
+10e-SUS APS (Atenção Primária à Saúde)              202012

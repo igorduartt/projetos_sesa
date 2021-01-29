@@ -1,0 +1,20 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências202012
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          202012
+040017Nefrologia                                                                                          202012
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       202012
+040028Outras cirurgias plásticas/reparadoras                                                              202012
+040030Sequenciais                                                                                         202012
+040032Transplantes de orgãos, tecidos e células                                                           202012
+040033Medicamentos para transplante                                                                       202012
+040038OPM para transplantes                                                                               202012
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          202012
+040044Redesignação e Acompanhamento                                                                       202012
+040049Implementar Cirg. CV Pediátrica                                                                     202012
+040055Transplante - Histocompatibilidade                                                                  202012
+040062Doenças Raras                                                                                       202012
+040063Cadeiras de Rodas                                                                                   202012
+040065Medicamentos em Urgência                                                                            202012
+040066Cirurgias Eletivas - Componente Único                                                               202012
+040067Atenção Especializada em Saúde Auditiva                                                             202012
+040068Terapias Especializadas em Angiologia                                                               202012
+040069Tratamento de Doença Macular                                                                        202012

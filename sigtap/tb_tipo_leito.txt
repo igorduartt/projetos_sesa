@@ -1,0 +1,41 @@
+01Cirúrgico                                                   202012
+02Obstétricos                                                 202012
+03Clínico                                                     202012
+04Crônicos                                                    202012
+05Psiquiatria                                                 202012
+06Pneumologia Sanitária (Tisiologia)                          202012
+07Pediátricos                                                 202012
+08Reabilitação                                                202012
+09Leito Dia / Cirúrgicos                                      202012
+10Leito Dia / Aids                                            202012
+11Leito Dia / Fibrose Cística                                 202012
+12Leito Dia / Intercorrência Pós-Transplante                  202012
+13Leito Dia / Geriatria                                       202012
+14Leito Dia / Saúde Mental                                    202012
+17Estabelecimento Exclusivo UTI SUS                           202012
+51UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19    202012
+52UTI II PEDIATRICO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19202012
+65Unidade Intermediária Neonatal                              202012
+74UTI I                                                       202012
+75UTI Adulto II                                               202012
+76UTI Adulto III                                              202012
+77UTI Infantil I                                              202012
+78UTI Infantil II                                             202012
+79UTI Infantil III                                            202012
+80UTI Neonatal I                                              202012
+81UTI Neonatal II                                             202012
+82UTI Neonatal III                                            202012
+83UTI Queimados                                               202012
+84Acolhimento Noturno                                         202012
+85UTI Coronariana-UCO tipo II                                 202012
+86UTI Coronariana-UCO tipo III                                202012
+87Saúde Mental (Clínico)                                      202012
+88Queimado Adulto (Clínico)                                   202012
+89Queimado Pediátrico (Clínico)                               202012
+90Queimado Adulto (Cirúrgico)                                 202012
+91Queimado Pediátrico (Cirúrgico)                             202012
+92UCI Unidade de Cuidados Intermediarios Neonatal Convencional202012
+93UCI Unidade de Cuidados Intermediarios Neonatal Canguru     202012
+94UCI Unidade de Cuidados Intermediarios Pediatrico           202012
+95UCI Unidade de Cuidados Intermediarios Adulto               202012
+96Suporte Ventilatório Pulmonar-COVID-19                      202012

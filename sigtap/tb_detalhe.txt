@@ -1,0 +1,38 @@
+001Inclui valor da anestesia                                                                           202012
+003Admite longa permanência                                                                            202012
+004Admite permanência à maior                                                                          202012
+005Admite liberação de quantidade na AIH                                                               202012
+006CNRAC                                                                                               202012
+007Permanência por dia                                                                                 202012
+008Não permite mudança de procedimento                                                                 202012
+009Exige CNS                                                                                           202012
+011Permite alta direta de UTI                                                                          202012
+012Exige idade no BPA (Consolidado)                                                                    202012
+013Verifica habilitação de terceiro                                                                    202012
+014Admite APAC de Continuidade                                                                         202012
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202012
+017Exige Informação da OPM                                                                             202012
+020Monitoramento do CEO                                                                                202012
+021Não Exige CBO                                                                                       202012
+022Exige registro na APAC de dados complementares                                                      202012
+023Registro no SISCOLO                                                                                 202012
+024Registro no SISPRENATAL                                                                             202012
+025Registro no SISMAMA                                                                                 202012
+026Registro de Procedimentos Secundário Compativel                                                     202012
+029Admite período maior para a apresentação                                                            202012
+033APAC com validade fixa de 03 competências                                                           202012
+034Não exige CNS                                                                                       202012
+036Exige Autorização                                                                                   202012
+037Exige CNPJ do Fornecedor                                                                            202012
+038Exige Serviço/Classificação                                                                         202012
+040Registro no SISCAN                                                                                  202012
+041APAC com validade fixa de 12 competências                                                           202012
+042Não Admite Liberação de Crítica de Idade                                                            202012
+043Exige registro de CID de causas associadas                                                          202012
+044Cirurgias Eletivas                                                                                  202012
+045Diárias de Leitos Complementares                                                                    202012
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202012
+047Autorização com limite máximo de 6 meses.                                                           202012
+048Exige CID                                                                                           202012
+049Permite Informação de Equipe Cirúrgica                                                              202012
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     202012

@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202012
+101Estratégia de Saúde da Família                                                                                          202012
+102Estratégias de Agentes Comunitário de Saúde                                                                             202012
+103Serviço de Atendimento Móvel de Urgências                                                                               202012
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202012
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202012
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202012
+107Serviço de Atenção a Saúde Auditiva                                                                                     202012
+108Serviço de Atenção a Saúde do Trabalhador                                                                               202012
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202012
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202012
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202012
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     202012
+113Serviço de Atenção Domiciliar                                                                                           202012
+114Serviço de Atenção em Saúde Bucal                                                                                       202012
+115Serviço de Atenção Psicossocial                                                                                         202012
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202012
+117Serviço de Cirurgia Reparadora                                                                                          202012
+118Serviço de Cirurgia Torácica                                                                                            202012
+119Serviço de Controle de Tabagismo                                                                                        202012
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202012
+121Diagnóstico por Imagem                                                                                                  202012
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202012
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202012
+124Serviço de Endocrinologia                                                                                               202012
+125Serviço de Farmácia                                                                                                     202012
+126Serviço de Fisioterapia                                                                                                 202012
+127Serviço de Atenção à Obesidade                                                                                          202012
+128Serviço de Hemoterapia                                                                                                  202012
+129Servico de Laboratório de Histocompatibilidade                                                                          202012
+130Atenção à Doença Renal Crônica                                                                                          202012
+131Serviço de Oftalmologia                                                                                                 202012
+132Serviço de Oncologia                                                                                                    202012
+133Serviço de Pneumologia                                                                                                  202012
+134Serviço de Práticas Integrativas e Complementares                                                                       202012
+135Serviço de Reabilitação                                                                                                 202012
+136Serviço de Suporte Nutricional                                                                                          202012
+137Serviço de Telemedicina                                                                                                 202012
+138Serviço de Traumato-Ortopedia                                                                                           202012
+139Serviço de Triagem Neonatal                                                                                             202012
+140Serviço de Urgência e Emergência                                                                                        202012
+141Serviço de Vigilância em Saúde                                                                                          202012
+142Serviço de Endoscopia                                                                                                   202012
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202012
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202012
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202012
+146Serviço de Videolaparoscopia                                                                                            202012
+147Serviço de Apoio a Saúde da Família                                                                                     202012
+148Hospital-Dia                                                                                                            202012
+149Transplante                                                                                                             202012
+150Cirurgia Vascular                                                                                                       202012
+151Medicina Nuclear                                                                                                        202012
+152Atenção à Saúde da População Indígena                                                                                   202012
+153Atenção Especializada no Processo Transexualizador                                                                      202012
+154Serviço de Banco de Tecidos                                                                                             202012
+155Serviço de Traumatologia  Ortopedia                                                                                     202012
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      202012
+157Serviço de Laboratorio de Protese Dentaria                                                                              202012
+158Serviço de Atenção Integral em Hanseniase                                                                               202012
+159Atenção Primária                                                                                                        202012
+160Teleconsultoria                                                                                                         202012
+161Consultório na Rua                                                                                                      202012
+162Serviço de Terapia Intensiva                                                                                            202012
+163Serviço de Cuidados Intermediários                                                                                      202012
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202012
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202012
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202012
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202012
+168Atenção Às Pessoas com Doenças Raras                                                                                    202012
+169Serviço de Atenção em Urologia                                                                                          202012
+170Comissões e Comitês                                                                                                     202012
+173Logística de Imunobiológicos                                                                                            202012
+174Imunização                                                                                                              202012
