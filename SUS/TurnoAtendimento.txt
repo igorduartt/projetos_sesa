@@ -1,0 +1,8 @@
+      1  ATENDIMENTO TURNOS INTERMITENTES                   01
+      2  ATENDIMENTO CONTÍNUO 24 HORAS/DIA (Pl Sab Dom Fer) 02
+      3  ATENDIMENTO TURNOS MANHÃ/TARDE/NOITE               03
+      4  ATENDIMENTO SOMENTE PELA MANHÃ                     04
+      5  ATENDIMENTO SOMENTE À TARDE                        05
+      6  ATENDIMENTO TURNOS MANHÃ/TARDE                     06
+      7  ATENDIMENTO SOMENTE À NOITE                        07
+      8  Turno não informado                                99

@@ -1,0 +1,5 @@
+      1  Atendimento de demanda espontânea                  01
+      2  Atendimento de demanda referenciada                02
+      3  Atendimento de demanda espontânea e referenciada   03
+      4  Fluxo de Clientela não exigido                     00
+      5  Fluxo de Clientela não informado                   99

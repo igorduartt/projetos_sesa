@@ -1,0 +1,43 @@
+        1  POSTO DE SAUDE                                                                                       01
+        2  CENTRO DE SAUDE/UNIDADE BASICA                                                                       02
+        3  POLICLINICA                                                                                          04
+        4  HOSPITAL GERAL                                                                                       05
+        5  HOSPITAL ESPECIALIZADO                                                                               07
+        6  PRONTO SOCORRO DE HOSPITAL GERAL (ANTIGO)                                                            09
+        7  PRONTO SOCORRO TRAUMATO-ORTOPEDICO (ANTIGO)                                                          12
+        8  UNIDADE MISTA                                                                                        15
+        9  PRONTO SOCORRO GERAL                                                                                 20
+       10  PRONTO SOCORRO ESPECIALIZADO                                                                         21
+       11  CONSULTORIO ISOLADO                                                                                  22
+       12  UNIDADE MOVEL FLUVIAL                                                                                32
+       13  CLINICA/CENTRO DE ESPECIALIDADE                                                                      36
+       14  UNIDADE DE APOIO DIAGNOSE E TERAPIA (SADT ISOLADO)                                                   39
+       15  UNIDADE MOVEL TERRESTRE                                                                              40
+       16  UNIDADE MOVEL DE NIVEL PRE-HOSPITALAR NA AREA DE URGENCIA                                            42
+       17  FARMACIA                                                                                             43
+       18  UNIDADE DE SAUDE DA FAMILIA                                                                          45
+       19  UNIDADE DE VIGILANCIA EM SAUDE                                                                       50
+       20  COOPERATIVA OU EMPRESA DE CESSAO DE TRABALHADORES NA SAUDE                                           60
+       21  CENTRO DE PARTO NORMAL - ISOLADO                                                                     61
+       22  HOSPITAL/DIA - ISOLADO                                                                               62
+       23  UNIDADE AUTORIZADORA                                                                                 63
+       24  CENTRAL DE REGULACAO DE SERVICOS DE SAUDE                                                            64
+       25  UNIDADE DE VIGILANCIA EPIDEMIOLOGIA (ANTIGO)                                                         65
+       26  UNIDADE DE VIGILANCIA SANITARIA (ANTIGO)                                                             66
+       27  LABORATORIO CENTRAL DE SAUDE PUBLICA LACEN                                                           67
+       28  CENTRAL DE GESTAO EM SAUDE                                                                           68
+       29  CENTRO DE ATENCAO HEMOTERAPIA E OU HEMATOLOGICA                                                      69
+       30  CENTRO DE ATENCAO PSICOSSOCIAL                                                                       70
+       31  CENTRO DE APOIO A SAUDE DA FAMILIA                                                                   71
+       32  UNIDADE DE ATENCAO A SAUDE INDIGENA                                                                  72
+       33  PRONTO ATENDIMENTO                                                                                   73
+       34  POLO ACADEMIA DA SAUDE                                                                               74
+       35  TELESSAUDE                                                                                           75
+       36  CENTRAL DE REGULACAO MEDICA DAS URGENCIAS                                                            76
+       37  SERVICO DE ATENCAO DOMICILIAR ISOLADO(HOME CARE)                                                     77
+       38  UNIDADE DE ATENCAO EM REGIME RESIDENCIAL                                                             78
+       39  OFICINA ORTOPEDICA                                                                                   79
+       40  LABORATORIO DE SAUDE PUBLICA                                                                         80
+       41  CENTRAL DE REGULACAO DO ACESSO                                                                       81
+       42  CENTRAL DE NOTIFICACAO,CAPTACAO E DISTRIB DE ORGAOS ESTADUAL                                         82
+       43  POLO DE PREVENCAO DE DOENCAS E AGRAVOS E PROMOCAO DA SAUDE                                           83
