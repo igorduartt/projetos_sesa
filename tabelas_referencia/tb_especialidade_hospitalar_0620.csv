@@ -1,0 +1,39 @@
+codigo_especialidade;descricao;referencia
+01;Cirurgico                                                   ;202006
+02;Obstetricos                                                 ;202006
+03;Clinico                                                     ;202006
+04;Cronicos                                                    ;202006
+05;Psiquiatria                                                 ;202006
+06;Pneumologia Sanitaria (Tisiolo                              ;202006
+07;Pediatricos                                                 ;202006
+08;Reabilitacao                                                ;202006
+09;Leito Dia / Cirurgicos                                      ;202006
+10;Leito Dia / Aids                                            ;202006
+11;Leito Dia / Fibrose Cistica                                 ;202006
+12;Leito Dia / Intercorrencia Pos                              ;202006
+13;Leito Dia / Geriatria                                       ;202006
+14;Leito Dia / Saude Mental                                    ;202006
+64;Unidade Intermediaria                                       ;202006
+65;Unidade Intermediaria Neonatal                              ;202006
+74;UTI I                                                       ;202006
+75;UTI Adulto II                                               ;202006
+76;UTI Adulto III                                              ;202006
+77;UTI Infantil I                                              ;202006
+78;UTI Infantil II                                             ;202006
+79;UTI Infantil III                                            ;202006
+80;UTI Neonatal I                                              ;202006
+81;UTI Neonatal II                                             ;202006
+82;UTI Neonatal III                                            ;202006
+83;UTI Queimados                                               ;202006
+84;Acolhimento Noturno                                         ;202006
+85;UTI Coronariana-UCO tipo II                                 ;202006
+86;UTI Coronariana-UCO tipo III                                ;202006
+87;Saude Mental (Clinico)                                      ;202006
+88;Queimado Adulto (Clinico)                                   ;202006
+89;Queimado Pediatrico (Clinico)                               ;202006
+90;Queimado Adulto (Cirurgico)                                 ;202006
+91;Queimado Pediatrico (Cirurgico)                             ;202006
+92;UCI Unidade de Cuidados Intermediarios Neonatal Convencional;202006
+93;UCI Unidade de Cuidados Intermediarios Neonatal Canguru     ;202006
+94;UCI Unidade de Cuidados Intermediarios Pediatrico           ;202006
+95;UCI Unidade de Cuidados Intermediarios Adulto               ;202006
